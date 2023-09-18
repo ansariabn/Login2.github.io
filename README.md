@@ -1,4 +1,4 @@
-# Login made by Spring Boot and Thymeleaf 
+# Login made by Spring Boot, Thymeleaf, and also connect H2 Database 
 
 ## Images login
 ![Customer List - Google Chrome 9_18_2023 6_48_11 PM](https://github.com/ansariabn/Login2.github.io/assets/110123115/caba108a-6d50-4b2f-81ef-ff566fa28f53)
