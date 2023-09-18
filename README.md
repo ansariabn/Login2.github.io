@@ -6,8 +6,8 @@
 ## After Login 
 ![Customer List - Google Chrome 9_18_2023 6_48_48 PM](https://github.com/ansariabn/Login2.github.io/assets/110123115/b02e5066-ead1-4280-b946-498fff41fc6a)
 
-## There is two buttons 
-. first Update 
-. Delete buttons 
+## There are two buttons 
+i first Update 
+ii Delete buttons 
 
 
